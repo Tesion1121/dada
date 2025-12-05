@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "401697780812",
+    "project_id": "tugas2-128ff",
+    "storage_bucket": "tugas2-128ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401697780812:android:c34b1027d10b3e3802f0e9",
+        "android_client_info": {
+          "package_name": "com.Mipad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKUp1lMx7sIP9kGA2TFidJlghVvrizCwQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
